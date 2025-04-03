@@ -4,4 +4,4 @@
 
 First project from the freeCodeCamp.org JavaScript Certification
 
-((To run in terminal: node <scriptname>.js))
+((To run in terminal: node < scriptname >.js))
